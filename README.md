@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Xaver115
 - 👀 I’m interested in AI, system-oriented programming, high performance computing
 - 🌱 I’m currently learning pytorch, pygame, assembly, electonics
-- 💞️ I’m looking to collaborate on nothing. I'm a lone wolf
+- 💞️ I’m looking to collaborate on nothing. I'm a lone wolf. Leave me alone!
 - 📫 How to reach me: xavertv123@gmail.com, but don't expect me to read my mail regularly
 
 <!---
