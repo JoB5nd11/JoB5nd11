@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing. I'm a lone wolf. Leave me alone!
 - 📫 How to reach me: johannesbendler115@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoB5nd11)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoB5nd11&show_icons=true&theme=radical)
 
 <!---
 Xaver115/Xaver115 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
