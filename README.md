@@ -1,3 +1,4 @@
+Let's do it! 😁✌🏼
 <!-- 👋 Hi, I’m @JoB5nd11
 - 👀 I’m interested in AI, system-oriented programming, high performance computing
 - 🌱 I’m currently learning basic AI algorithms, pyotorch and tensorflow, godot, electonics
