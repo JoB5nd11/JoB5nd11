@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JoB5nd11
+<!-- 👋 Hi, I’m @JoB5nd11
 - 👀 I’m interested in AI, system-oriented programming, high performance computing
 - 🌱 I’m currently learning basic AI algorithms, pyotorch and tensorflow, godot, electonics
 - 💞️ I’m looking to collaborate on nothing. I'm a lone wolf. Leave me alone!
-- 📫 How to reach me: johannesbendler115@gmail.com
+- 📫 How to reach me: johannesbendler115@gmail.com-->
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoB5nd11&show_icons=true&theme=radical&include_all_commits=true)
 
